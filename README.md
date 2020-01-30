@@ -1,9 +1,9 @@
 # nbinteract-tutorial
 
-https://www.nbinteract.com/tutorial/tutorial_intro.html
+Tutorial: https://www.nbinteract.com/tutorial/tutorial_intro.html
 
-https://lsiempel.github.io/nbinteract-tutorial/tutorial.html
+example 1: https://lsiempel.github.io/nbinteract-tutorial/tutorial.html
 
-https://lsiempel.github.io/nbinteract-tutorial/example_graph.html
+interactive plots example: https://lsiempel.github.io/nbinteract-tutorial/example_graph.html
 
-Running Python Kernel from 
+See also another tutorial: https://elc.github.io/posts/embed-interactive-notebooks/
